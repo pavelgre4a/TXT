@@ -1,1 +1,2 @@
-
+Bug_1: Not working polindrome-check
+Bug_2: Autoreloading
